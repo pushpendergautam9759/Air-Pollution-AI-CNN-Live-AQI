@@ -1,0 +1,1 @@
+Images: 12240\nTrain: 8568\nValidation: 1836\nTest: 1836\nTest loss: 0.7089\nTest accuracy: 0.7364\n

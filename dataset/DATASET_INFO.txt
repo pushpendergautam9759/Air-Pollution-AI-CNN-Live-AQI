@@ -1,0 +1,25 @@
+DATASET — AIR POLLUTION IMAGE DATASET FROM INDIA AND NEPAL
+
+Project repository:
+https://github.com/ICCC-Platform/Air-Pollution-Image-Dataset-From-India-and-Nepal
+
+Kaggle download:
+https://www.kaggle.com/datasets/adarshrouniyar/air-pollution-image-dataset-from-india-and-nepal
+
+The repository describes 12,240 images at 224 x 224 pixels in six image-label classes:
+Good; Moderate; Unhealthy for Sensitive Groups; Unhealthy; Very Unhealthy; Hazardous.
+The exact source documentation and license are available in the repository. Read the license and cite the dataset authors.
+
+Download and extract the dataset. Place the six class folders in:
+dataset/Combined_Dataset/IND_and_NEP/
+The folder names should be:
+Good/
+Moderate/
+Unhealthy for Sensitive Groups/
+Unhealthy/
+Very Unhealthy/
+Hazardous/
+
+The raw image archive is not bundled in this project ZIP because it is distributed by Kaggle and is large. A Kaggle account may be required.
+
+Important: Dataset visual labels are not identical to India's CPCB National AQI category system. The CNN predicts the dataset's visual classes only.

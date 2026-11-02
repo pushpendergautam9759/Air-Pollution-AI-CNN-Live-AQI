@@ -1,0 +1,12 @@
+Test loss: 0.7089\nTest accuracy: 0.7364\n\n                                precision    recall  f1-score   support
+
+                          Good       0.82      0.65      0.72       231
+                      Moderate       0.68      0.72      0.70       236
+Unhealthy for Sensitive Groups       0.69      0.64      0.67       429
+                     Unhealthy       0.67      0.82      0.74       394
+                Very Unhealthy       0.86      0.73      0.79       329
+                     Hazardous       0.81      0.88      0.85       217
+
+                      accuracy                           0.74      1836
+                     macro avg       0.75      0.74      0.74      1836
+                  weighted avg       0.74      0.74      0.74      1836
